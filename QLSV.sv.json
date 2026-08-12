@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "6a7c3cb0898e2a5261c97f2f"
+  },
+  "masv": "sv001",
+  "hoten": "Đỗ Nhật Lâm",
+  "tuoi": 20,
+  "phai": "Nam",
+  "malop": "L01",
+  "monhoc": [
+    {
+      "tenmon": "Toán",
+      "diem": 8
+    }
+  ],
+  "ngonngu": [
+    "Tiếng Anh",
+    "Tiếng Nhật"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a7c3d9e4586865ed38af264"
+  },
+  "Masv": "sv003",
+  "Hoten": "Trần Thị Lan",
+  "Tuoi": 25,
+  "Phai": "Nữ",
+  "Malop": "l01",
+  "Ngoingu": [
+    "Tiếng Anh",
+    "Tiếng Hàn"
+  ],
+  "Monhoc": [
+    {
+      "Mamh": "m001",
+      "Tenmh": "Toán",
+      "SOTC": 3,
+      "Diem": 9
+    }
+  ]
+}]
